@@ -1,5 +1,4 @@
-PROYECTO: CLUSTER DE ALTA DISPONIBILIDAD CON PACEMAKER Y COROSYNC
-
+PROYECTO CLUSTER DE ALTA DISPONIBILIDAD CON PACEMAKER Y COROSYNC
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 RESUMEN
